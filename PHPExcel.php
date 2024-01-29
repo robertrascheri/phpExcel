@@ -25,11 +25,6 @@ if (!defined('PHPEXCEL_ROOT')) {
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  *
- * YEAR 2023.
- * Update the library to make it compatible with PHP 8.1.
- * Basically, the use of {} for accessing offsets in arrays and strings is changed to []
- * info@oscarperez.es
- *
  * @category   PHPExcel
  * @package    PHPExcel
  * @copyright  Copyright (c) 2006 - 2015 PHPExcel (http://www.codeplex.com/PHPExcel)
